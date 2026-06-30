@@ -9,7 +9,7 @@
 </ul>
 <hr>
 <h3>Projects that I have worked on</h3>
-<em>Candle</em>
+<em>Candle</em> <a href="https://www.example.com">Itch.io Page</a>
 <p>
   Primarily built a core puzzle mechanic and implement camera shakes for player feedback.
   <br>

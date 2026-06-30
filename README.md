@@ -11,7 +11,10 @@
 <h3>Projects that I have worked on</h3>
 <em>Candle</em>
 <p>
-  Primarily built core puzzle mechanics and implement camera shakes for player feedback.
+  Primarily built a core puzzle mechanic and implement camera shakes for player feedback.
+  <br>
+  <br>
+  The Puzzle is designed to generate a random sequence on level start. I created this in a modular fashion so that any amount of switches placed will still function without fail.
 </p>
 <img width="777" height="290" alt="random sequenceSS" src="https://github.com/user-attachments/assets/fe547912-324a-4871-bfaf-4baeee2f5f06" />
 <br>
